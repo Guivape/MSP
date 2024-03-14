@@ -1,0 +1,16 @@
+Subway Exercise
+
+
+Actors:
+ - Client
+ - Administrador
+ - Subway employee
+ - Time
+ 
+
+
+
+ NAO SE TEM CLASS DIAGRAM PARA O TICKET OWNER porque e um ator!!!
+ Quere se representar as classes do sistema
+
+ No class diagram as funçoes sao as que apontam para la no scenario sequence!
